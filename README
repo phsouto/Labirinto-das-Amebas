@@ -1,0 +1,6 @@
+Projeto feito como trabalho da disciplina Programação em Tempo Real na FACIT.
+Introdução a programação paralela utilizando threads. 
+
+O projeto consiste em um labirinto e "amebas" tentando encontrar a saída deste
+labirinto. A ameba segue o labirinto, se dividindo quando necessário até encontrar
+a saída.
